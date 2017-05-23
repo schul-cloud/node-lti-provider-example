@@ -1,0 +1,19 @@
+{
+  "name": "node-lti-provider-example",
+  "version": "1.0.0",
+  "description": "A short tutorial on how to provide LTI in an application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nico Knoll <mail@nico.is> (https://nico.is)",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "connect-mongo": "^1.3.2",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "ims-lti": "^3.0.2",
+    "mongoose": "^4.10.2"
+  }
+}
