@@ -1,4 +1,7 @@
 # LTI-Provider (example for NodeJS)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/schul-cloud/node-lti-provider-example.svg)](https://greenkeeper.io/)
+
 A short tutorial on how to provide LTI in an application with NodeJS.
 
 ### Requirements
