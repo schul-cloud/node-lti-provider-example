@@ -10,10 +10,10 @@
   "license": "AGPL-3.0",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "connect-mongo": "^1.3.2",
+    "connect-mongo": "^2.0.2",
     "express": "^4.15.3",
     "express-session": "^1.15.3",
     "ims-lti": "^3.0.2",
-    "mongoose": "^4.10.2"
+    "mongoose": "^5.3.13"
   }
 }
